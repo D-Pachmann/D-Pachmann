@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Damon
-- Founder of [Defend Now](
+- ⚙️ Founder of [Defend Now](https://www.defendnow.org/)
 - 👀 I’m interested in Web and Discord Development.
 - 📫 How to reach me? Via E-Mail, or Discord.
 - 😄 Pronouns: He/Him
