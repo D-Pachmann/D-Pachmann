@@ -2,7 +2,7 @@
 
 ⚙️ Founder of [Defend Now](https://www.defendnow.org/) ([Defend Now's Github](https://github.com/Defend-Now))
 
-📫 How to reach me? Via E-Mail ([pachmann@defendnow.org](mailto:pachmann@defendnow.org)), or Discord.
+📫 How to reach me? Via E-Mail ([damon@defendnow.org](mailto:damon@defendnow.org)), or Discord.
 
 😄 Pronouns: He/Him
 
